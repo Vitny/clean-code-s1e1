@@ -143,6 +143,6 @@
   width:224px
 }
 
-.task-list-item.edit-mode latask-item-label {
+.task-list-item.edit-mode .task-item-label {
   display:none;
 }
