@@ -36,14 +36,14 @@
   display: flex;
 }
 #incomplete-tasks, #completed-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .task-list-item, .section-title {
-  list-style:none;
+  list-style: none;
 }
 .form-input, .btn{
-  outline:none;
+  outline: none;
 }
 .btn {
   background: none;
@@ -136,14 +136,14 @@
 
 /* Edit Task */
 .task-list-item .text-input {
-  display:none
+  display: none
 }
 
 .task-list-item.edit-mode .text-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task-list-item.edit-mode .task-item-label {
-  display:none;
+  display: none;
 }
