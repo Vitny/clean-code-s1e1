@@ -35,14 +35,17 @@
 .task-form {
   display: flex;
 }
-#incomplete-tasks, #completed-tasks {
+#incomplete-tasks,
+#completed-tasks {
   margin: 0;
   padding: 0px;
 }
-.task-list-item, .section-title {
+.task-list-item,
+.section-title {
   list-style: none;
 }
-.form-input, .btn{
+.form-input,
+.btn {
   outline: none;
 }
 .btn {
@@ -68,7 +71,7 @@
   margin: 0;
   text-transform: uppercase;
 }
-.text-input{
+.text-input {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
